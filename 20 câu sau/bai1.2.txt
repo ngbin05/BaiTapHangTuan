@@ -1,0 +1,4 @@
+1, Sai ở cú pháp vòng while. Sửa xóa dấu chấm phẩy ở cuối dòng while.
+2, Sai cú pháp vòng for. Sửa dấu phẩy thành dấu chấm phảy.
+3, Thiếu ngoặc cho khối lệnh. Sửa thêm mở và đóng ngoặc cho khối lệnh.
+4, Điều kiện vòng lặp for không dúng dẫn đến vòng lặp không thể kết thúc. Sửa thay đổi điều kiện.
